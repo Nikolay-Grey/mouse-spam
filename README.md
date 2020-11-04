@@ -3,6 +3,9 @@
 ## About 
 This is a small script to randomly move your mouse and click mouse buttons. It uses *xdotool* package to simulate mouse input. You can use it for any purpose, but you have to understand this can be harmful (for example accidentally delete files or send a message).
 
+## System requierments
+Almoust any Linux OS. Hardware doesn't matter
+
 ## Installation
 1) Download .sh or .py
 
